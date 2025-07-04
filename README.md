@@ -61,10 +61,15 @@ Dessa forma, o uso de um sistema IoT para acompanhar o nível da água em tempo 
 ## 📂 Estrutura do Projeto
 
 📁 Projeto_CaixaAgua/
-├── sketch.ino → Código-fonte comentado
-├── diagram.json → Circuito da simulação
-├── README.md → Documentação do projeto
+<p>├── sketch.ino → Código-fonte comentado
+</p>
 
+<p>├── diagram.json → Circuito da simulação
+
+</p>
+<p>├── README.md → Documentação do projeto
+
+</p>
 yaml
 Copiar
 Editar
@@ -79,7 +84,7 @@ Editar
 
 ## 🙋 Sobre o Autor
 
-Projeto desenvolvido por **[Seu Nome]** para a disciplina de **Introdução à Automação de Ambientes e Processos**, com foco em aplicações reais de IoT.
+Projeto desenvolvido por **Julia Lemos Alves da Silva** para a disciplina de **Introdução à Automação de Ambientes e Processos**, com foco em aplicações reais de IoT.
 
 ---
 
