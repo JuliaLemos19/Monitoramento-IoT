@@ -39,7 +39,7 @@ Dessa forma, o uso de um sistema IoT para acompanhar o nível da água em tempo 
 
 | Simulação no Wokwi | Gráfico no ThingSpeak |
 |--------------------|------------------------|
-| ![Simulação Wokwi](link_da_imagem_simulacao_wokwi) | ![Gráfico ThingSpeak](link_da_imagem_grafico_thingspeak) |
+| ![Simulação Wokwi](FT01.png) | ![Gráfico ThingSpeak](link_da_imagem_grafico_thingspeak) |
 
 ---
 
@@ -55,26 +55,6 @@ Dessa forma, o uso de um sistema IoT para acompanhar o nível da água em tempo 
 - Conta gratuita no ThingSpeak
 - Biblioteca `ThingSpeak.h` instalada
 - Conexão Wi-Fi válida (no Wokwi, pode deixar `"Wokwi-GUEST"`)
-
----
-
-## 📂 Estrutura do Projeto
-
-📁 Projeto_CaixaAgua/
-<p>├── sketch.ino → Código-fonte comentado
-</p>
-
-<p>├── diagram.json → Circuito da simulação
-
-</p>
-<p>├── README.md → Documentação do projeto
-
-</p>
-yaml
-Copiar
-Editar
-
----
 
 ## 📽️ Vídeo de Apresentação
 
