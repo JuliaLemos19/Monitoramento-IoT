@@ -46,10 +46,10 @@ Dessa forma, o uso de um sistema IoT para acompanhar o nível da água em tempo 
 ## 🧪 Como Replicar o Projeto
 
 ### 1. Simule no Wokwi:
-🔗 [Abrir projeto Wokwi](https://wokwi.com/projects/SEU_LINK_DO_PROJETO)
+🔗 [Abrir projeto Wokwi](https://wokwi.com/projects/435476093261588481)
 
 ### 2. Visualize os dados:
-🔗 [Canal público no ThingSpeak](https://thingspeak.com/channels/SEU_ID_DO_CANAL)
+🔗 [Canal público no ThingSpeak](https://thingspeak.com/channels/3002897)
 
 ### 3. Requisitos:
 - Conta gratuita no ThingSpeak
