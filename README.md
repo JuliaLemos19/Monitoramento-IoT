@@ -39,7 +39,7 @@ Dessa forma, o uso de um sistema IoT para acompanhar o nível da água em tempo 
 
 | Simulação no Wokwi | Gráfico no ThingSpeak |
 |--------------------|------------------------|
-| ![Simulação Wokwi](https://wokwi.com/projects/435476093261588481) | ![Gráfico ThingSpeak](link_da_imagem_grafico_thingspeak) |
+| ![Simulação Wokwi](FT01.png) | ![Gráfico ThingSpeak](FT02.png) |
 
 ---
 
